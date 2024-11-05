@@ -13,7 +13,7 @@ const int ledGreen = 7;
 const int ledRed = 8; // 
 const int buzzer = 9;
 
-// Variables for buzzer operation
+
 float seno;
 int frequencia;
 
